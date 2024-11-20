@@ -1,8 +1,8 @@
-#define  _CRT_SECURE_NO_WARNINGS
+﻿#define  _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "h f/tool.h"
+#include "h f/tool.h"//这个根目录对应的就是函数文件的根目录，不少项目的根目录，所以这里的相对路径可以使用
 //pretreatmanet learn  of c code 
 
 /*

@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "D:\\Learn\\setC\\git clone\\git clone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C60D23C-1B61-4904-BE4C-EC0641023D6C}|git clone.vcxproj|D:\\Learn\\setC\\git clone\\pretreatment.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C60D23C-1B61-4904-BE4C-EC0641023D6C}|git clone.vcxproj|D:\\Learn\\setC\\git clone\\define data type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C60D23C-1B61-4904-BE4C-EC0641023D6C}|git clone.vcxproj|D:\\Learn\\setC\\git clone\\tool.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C60D23C-1B61-4904-BE4C-EC0641023D6C}|git clone.vcxproj|D:\\Learn\\setC\\git clone\\file handle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C60D23C-1B61-4904-BE4C-EC0641023D6C}|git clone.vcxproj|D:\\Learn\\setC\\git clone\\h f\\tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C60D23C-1B61-4904-BE4C-EC0641023D6C}|git clone.vcxproj|D:\\Learn\\setC\\git clone\\tool.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,28 +46,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tool.c",
-              "DocumentMoniker": "D:\\Learn\\setC\\git clone\\tool.c",
-              "RelativeDocumentMoniker": "..\\tool.c",
-              "ToolTip": "D:\\Learn\\setC\\git clone\\tool.c",
-              "RelativeToolTip": "..\\tool.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-13T08:36:40.813Z",
+              "DocumentIndex": 0,
+              "Title": "define data type.cpp",
+              "DocumentMoniker": "D:\\Learn\\setC\\git clone\\define data type.cpp",
+              "RelativeDocumentMoniker": "..\\define data type.cpp",
+              "ToolTip": "D:\\Learn\\setC\\git clone\\define data type.cpp",
+              "RelativeToolTip": "..\\define data type.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAkwKkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T13:22:30.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "pretreatment.c",
-              "DocumentMoniker": "D:\\Learn\\setC\\git clone\\pretreatment.c",
-              "RelativeDocumentMoniker": "..\\pretreatment.c",
-              "ToolTip": "D:\\Learn\\setC\\git clone\\pretreatment.c",
-              "RelativeToolTip": "..\\pretreatment.c",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHwAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "file handle.c",
+              "DocumentMoniker": "D:\\Learn\\setC\\git clone\\file handle.c",
+              "RelativeDocumentMoniker": "..\\file handle.c",
+              "ToolTip": "D:\\Learn\\setC\\git clone\\file handle.c",
+              "RelativeToolTip": "..\\file handle.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAJ0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-12T08:33:07.099Z",
+              "WhenOpened": "2024-11-19T10:37:16.124Z",
               "EditorCaption": ""
             },
             {
@@ -77,8 +80,19 @@
               "RelativeToolTip": "..\\h f\\tool.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-13T08:30:02.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T08:30:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tool.c",
+              "DocumentMoniker": "D:\\Learn\\setC\\git clone\\tool.c",
+              "RelativeDocumentMoniker": "..\\tool.c",
+              "ToolTip": "D:\\Learn\\setC\\git clone\\tool.c",
+              "RelativeToolTip": "..\\tool.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T08:36:40.813Z"
             }
           ]
         }
